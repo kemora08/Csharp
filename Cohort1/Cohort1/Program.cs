@@ -30,7 +30,7 @@ namespace ManyMethods
             Console.Write("Enter a number");
             value1 = ConvertToInt32(Console.ReadLine());
             Console.Write("Enter another number");
-            Total = (Value1) + value2);
+            Total = (Value1 + value2);
             Console.Write("The total of (0) and {1} = {2}", value1, value2, value3, Total);
             _ = Console.ReadLine();
 
@@ -67,7 +67,7 @@ namespace ManyMethods
             Console.Write("Please enter a odd and even number");
             value1 = ConvertToInt32(Console.ReadLine());
             Console.Write("Enter another number");
-            Total = (value1) + value2);
+            Total = (value1 + value2);
             Console.Write("The total of (0) and {1} = {2}", value1, value2, value3, Total);
             _ = Console.ReadLine();
 
