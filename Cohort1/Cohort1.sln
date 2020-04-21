@@ -3,19 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMethods", "Cohort1\MainMethods.csproj", "{6151B60B-3CBA-45D0-AD09-1805905ADDCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MainMethods", "Cohort1\MainMethods.csproj", "{6151B60B-3CBA-45D0-AD09-1805905ADDCB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PigLatin", "PigLatin\PigLatin.csproj", "{67B9F401-3ED1-40F3-BEB2-EB07FE3FED60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PigLatin", "PigLatin\PigLatin.csproj", "{67B9F401-3ED1-40F3-BEB2-EB07FE3FED60}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{EBF527A3-4130-4A5D-A207-A1B2120FFA41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RockPaperScissors", "RockPaperScissors\RockPaperScissors.csproj", "{EBF527A3-4130-4A5D-A207-A1B2120FFA41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ticTacToe", "ticTacToe\ticTacToe.csproj", "{0B52040D-2EAB-4101-B485-514421169F2C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ticTacToe", "ticTacToe\ticTacToe.csproj", "{0B52040D-2EAB-4101-B485-514421169F2C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeBook", "GradeBook\GradeBook.csproj", "{032C62C5-F521-4D15-9EA0-B9D1799DC0DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeBook", "GradeBook\GradeBook.csproj", "{032C62C5-F521-4D15-9EA0-B9D1799DC0DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MasterMind", "MasterMind\MasterMind.csproj", "{4778D6A5-3AA9-481E-BD8D-07EA43AA52E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MasterMind", "MasterMind\MasterMind.csproj", "{4778D6A5-3AA9-481E-BD8D-07EA43AA52E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Checkpoint1 Tower of Hanois", "Checkpoint1 Tower of Hanois\Checkpoint1 Tower of Hanois.csproj", "{5DAD75C7-8BB6-430F-ACD7-3B5BA9EF2126}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkpoint1 Tower of Hanois", "Checkpoint1 Tower of Hanois\Checkpoint1 Tower of Hanois.csproj", "{5DAD75C7-8BB6-430F-ACD7-3B5BA9EF2126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoCos", "PoCos\PoCos.csproj", "{38908D6C-9B07-4554-94D3-D1F49BC512EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoItems", "ToDoItems\ToDoItems.csproj", "{E183901D-CE10-47AA-8A13-25FA0F8722BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +55,14 @@ Global
 		{5DAD75C7-8BB6-430F-ACD7-3B5BA9EF2126}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DAD75C7-8BB6-430F-ACD7-3B5BA9EF2126}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DAD75C7-8BB6-430F-ACD7-3B5BA9EF2126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38908D6C-9B07-4554-94D3-D1F49BC512EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38908D6C-9B07-4554-94D3-D1F49BC512EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38908D6C-9B07-4554-94D3-D1F49BC512EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38908D6C-9B07-4554-94D3-D1F49BC512EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E183901D-CE10-47AA-8A13-25FA0F8722BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E183901D-CE10-47AA-8A13-25FA0F8722BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E183901D-CE10-47AA-8A13-25FA0F8722BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E183901D-CE10-47AA-8A13-25FA0F8722BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
