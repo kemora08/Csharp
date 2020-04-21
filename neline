@@ -1,0 +1,54 @@
+[33mcommit 81a9579a9e9e7abe32d6c52018f316805de7fb57[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: fcbde78 f9693da
+Author: kemora08 <kevin_mora89@hotmail.com>
+Date:   Mon Apr 20 20:21:30 2020 -0500
+
+    PoCos has been push up.
+
+[33mcommit fcbde7879d205f3cf011d530312c5a4d38db7e85[m
+Author: kemora08 <kevin_mora89@hotmail.com>
+Date:   Mon Apr 20 20:11:48 2020 -0500
+
+    PoCos is push up and debug.
+
+[33mcommit f9693da4e17eee7bb86627ee9b34eae0b86c51d3[m
+Author: kemora08 <54960171+kemora08@users.noreply.github.com>
+Date:   Mon Apr 20 18:44:56 2020 -0500
+
+    Create ToDoItem
+
+[33mcommit 5ee1eef1b9ae04c8b6033fe38b1beb6a04d47531[m
+Author: kemora08 <54960171+kemora08@users.noreply.github.com>
+Date:   Mon Apr 20 18:37:41 2020 -0500
+
+    Create PoCos
+
+[33mcommit c27f4b2b0d2f2a2fdd2c390f2fc8a5833def8f28[m
+Author: kemora08 <54960171+kemora08@users.noreply.github.com>
+Date:   Mon Apr 20 18:16:02 2020 -0500
+
+    Delete PoCos
+
+[33mcommit 5120d370d23a3af99e758539ac0ef3f0b6653daf[m
+Author: kemora08 <54960171+kemora08@users.noreply.github.com>
+Date:   Mon Apr 20 18:14:40 2020 -0500
+
+    Create PoCos
+
+[33mcommit b4de69c2ef62e10f430ee84789328562fc77527d[m
+Author: kemora08 <kevin_mora89@hotmail.com>
+Date:   Mon Apr 20 16:21:47 2020 -0500
+
+    Fix MainMethods error.
+
+[33mcommit fdb27cf19707d00525f9a9e51a3499790ad99b98[m
+Author: kemora08 <kevin_mora89@hotmail.com>
+Date:   Mon Apr 20 16:15:46 2020 -0500
+
+    Cohort1
+
+[33mcommit 5f4e956eb58115ebfb761dfccf52933cb3e8b8cd[m
+Author: kemora08 <54960171+kemora08@users.noreply.github.com>
+Date:   Mon Apr 20 15:28:11 2020 -0500
+
+    Initial commit
