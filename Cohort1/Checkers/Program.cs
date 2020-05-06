@@ -275,14 +275,9 @@ namespace Checkers
             Console.Write(" ");
             for(int i = 0; i < 32; i++)
             {
-                Console.Write(i);
-                for (int c = 0; c < 8; c++)
-                {
-                    Console.Write("\u2501");
-                }
-                Console.WriteLine();
-
+                Console.Write("\u2501");
             }
+            Console.WriteLine();
             for (int c = 0; c < 8; c++)
             {
                 Console.Write($"{c} ");
