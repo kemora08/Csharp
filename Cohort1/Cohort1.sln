@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inventory", "Inventory\Inve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Checkers", "Checkers\Checkers.csproj", "{DFC0D9A0-0271-4D62-8333-287EF62EE7AB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksInventory", "BooksInventory\BooksInventory.csproj", "{9C509354-AA9E-4EC5-9BAF-E039FAA86BAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{DFC0D9A0-0271-4D62-8333-287EF62EE7AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DFC0D9A0-0271-4D62-8333-287EF62EE7AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DFC0D9A0-0271-4D62-8333-287EF62EE7AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C509354-AA9E-4EC5-9BAF-E039FAA86BAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C509354-AA9E-4EC5-9BAF-E039FAA86BAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C509354-AA9E-4EC5-9BAF-E039FAA86BAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C509354-AA9E-4EC5-9BAF-E039FAA86BAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
